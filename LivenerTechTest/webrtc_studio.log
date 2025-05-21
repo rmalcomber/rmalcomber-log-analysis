@@ -1,0 +1,1000 @@
+[2023-10-27 10:00:00] STREAM_RECONNECT 196 stream_1065 Stream reconnected. 
+[2023-10-27 10:00:17] STREAM_RESTART 127 stream_1093 Stream restarted. 
+[2023-10-27 10:00:51] INFO 196 stream_1031 Audio device fixed. 
+[2023-10-27 10:01:28] STREAM_RECONNECT 117 stream_1070 Stream reconnected. 
+[2023-10-27 10:02:27] STREAM_RESTART 140 stream_1022 Stream restarted. 
+[2023-10-27 10:03:17] CRITICAL 135 stream_1078 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 10:03:52] STREAM_STOP 149 stream_1084 User 149 stopped stream stream_1084 
+[2023-10-27 10:04:22] STREAM_RESTART 133 stream_1035 Stream restarted. 
+[2023-10-27 10:04:43] INFO 181 stream_1074 Reconnected stream stable. 
+[2023-10-27 10:05:09] STREAM_RESTART 114 stream_1097 Stream restarted. 
+[2023-10-27 10:05:18] INFO 134 stream_1078 Packet loss detected. [Loss:10%] 
+[2023-10-27 10:06:12] INFO 141 stream_1031 Audio device fixed. 
+[2023-10-27 10:07:11] CRITICAL 176 stream_1058 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 10:07:59] STREAM_START 140 stream_1014 User 140 started stream stream_1014 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 10:08:43] STREAM_START 129 stream_1061 User 129 started stream stream_1061 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 10:08:50] USER_LEAVE 150 stream_1099 User 150 left the session 
+[2023-10-27 10:09:38] DEBUG 152 stream_1041 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 10:10:00] STREAM_START 197 stream_1037 User 197 started stream stream_1037 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 10:10:23] WARNING 122 stream_1052 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 10:10:29] STREAM_RESTART 160 stream_1019 Stream restarted. 
+[2023-10-27 10:11:28] CRITICAL 196 stream_1036 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 10:12:26] WARNING 112 stream_1054 High CPU usage detected [CPU:90%] 
+[2023-10-27 10:13:17] WARNING 163 stream_1082 User audio connected. 
+[2023-10-27 10:13:46] USER_LEAVE 114 stream_1040 User 114 left the session 
+[2023-10-27 10:14:02] ERROR 140 stream_1006 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 10:14:32] INFO 104 stream_1032 High CPU usage detected [CPU:90%] 
+[2023-10-27 10:14:50] USER_LEAVE 196 stream_1054 User 196 left the session 
+[2023-10-27 10:15:03] ERROR 164 stream_1078 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 10:15:24] USER_JOIN 192 stream_1044 User 192 joined the session 
+[2023-10-27 10:15:46] CRITICAL 143 stream_1042 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 10:15:59] CRITICAL 124 stream_1021 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 10:16:16] STREAM_RESTART 140 stream_1092 Stream restarted. 
+[2023-10-27 10:17:05] STREAM_STOP 107 stream_1041 User 107 stopped stream stream_1041 
+[2023-10-27 10:17:53] USER_LEAVE 118 stream_1018 User 118 left the session 
+[2023-10-27 10:18:18] WARNING 180 stream_1035 Stream bitrate stable. 
+[2023-10-27 10:18:40] ERROR 120 stream_1006 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 10:19:13] USER_JOIN 102 stream_1036 User 102 joined the session 
+[2023-10-27 10:20:04] CRITICAL 156 stream_1098 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 10:20:20] DEBUG 172 stream_1021 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 10:20:21] ERROR 169 stream_1054 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 10:21:03] CRITICAL 128 stream_1038 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 10:21:09] STREAM_STOP 164 stream_1090 User 164 stopped stream stream_1090 
+[2023-10-27 10:21:18] CRITICAL 107 stream_1063 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 10:22:01] USER_JOIN 160 stream_1096 User 160 joined the session 
+[2023-10-27 10:22:35] STREAM_START 174 stream_1055 User 174 started stream stream_1055 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 10:22:40] STREAM_STOP 199 stream_1033 User 199 stopped stream stream_1033 
+[2023-10-27 10:22:57] STREAM_STOP 162 stream_1046 User 162 stopped stream stream_1046 
+[2023-10-27 10:23:23] STREAM_STOP 131 stream_1016 User 131 stopped stream stream_1016 
+[2023-10-27 10:23:24] USER_JOIN 192 stream_1054 User 192 joined the session 
+[2023-10-27 10:23:30] USER_JOIN 128 stream_1062 User 128 joined the session 
+[2023-10-27 10:23:53] ERROR 134 stream_1031 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 10:24:04] STREAM_START 103 stream_1087 User 103 started stream stream_1087 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 10:24:14] USER_LEAVE 167 stream_1083 User 167 left the session 
+[2023-10-27 10:24:23] INFO 186 stream_1033 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 10:25:01] STREAM_RESTART 174 stream_1073 Stream restarted. 
+[2023-10-27 10:25:20] STREAM_RESTART 181 stream_1056 Stream restarted. 
+[2023-10-27 10:25:29] ERROR 181 stream_1032 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 10:25:43] USER_LEAVE 193 stream_1005 User 193 left the session 
+[2023-10-27 10:26:06] STREAM_RECONNECT 137 stream_1039 Stream reconnected. 
+[2023-10-27 10:26:16] USER_LEAVE 180 stream_1044 User 180 left the session 
+[2023-10-27 10:26:43] USER_LEAVE 132 stream_1015 User 132 left the session 
+[2023-10-27 10:27:03] CRITICAL 163 stream_1023 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 10:27:46] WARNING 148 stream_1048 High CPU usage detected [CPU:90%] 
+[2023-10-27 10:28:15] ERROR 157 stream_1083 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 10:28:46] DEBUG 125 stream_1080 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 10:28:49] WARNING 198 stream_1027 Audio device fixed. 
+[2023-10-27 10:29:24] ERROR 182 stream_1055 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 10:30:16] STREAM_STOP 197 stream_1027 User 197 stopped stream stream_1027 
+[2023-10-27 10:30:17] DEBUG 129 stream_1009 Stream latency normal. [Latency:50ms] 
+[2023-10-27 10:30:48] STREAM_STOP 123 stream_1035 User 123 stopped stream stream_1035 
+[2023-10-27 10:31:09] WARNING 102 stream_1094 Variable x set to 10 
+[2023-10-27 10:31:10] DEBUG 106 stream_1017 Stream bitrate stable. 
+[2023-10-27 10:31:53] CRITICAL 143 stream_1007 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 10:31:54] STREAM_RECONNECT 160 stream_1047 Stream reconnected. 
+[2023-10-27 10:32:38] INFO 155 stream_1079 Variable x set to 10 
+[2023-10-27 10:33:26] WARNING 105 stream_1015 Stream bitrate stable. 
+[2023-10-27 10:34:05] STREAM_RESTART 100 stream_1073 Stream restarted. 
+[2023-10-27 10:34:15] DEBUG 131 stream_1059 Stream bitrate stable. 
+[2023-10-27 10:34:50] STREAM_RESTART 131 stream_1053 Stream restarted. 
+[2023-10-27 10:35:20] STREAM_RESTART 196 stream_1015 Stream restarted. 
+[2023-10-27 10:35:48] STREAM_STOP 114 stream_1082 User 114 stopped stream stream_1082 
+[2023-10-27 10:36:07] CRITICAL 107 stream_1000 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 10:36:30] STREAM_STOP 103 stream_1048 User 103 stopped stream stream_1048 
+[2023-10-27 10:37:02] STREAM_START 110 stream_1071 User 110 started stream stream_1071 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 10:37:19] DEBUG 140 stream_1024 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 10:37:42] CRITICAL 144 stream_1037 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 10:38:31] USER_LEAVE 158 stream_1056 User 158 left the session 
+[2023-10-27 10:39:02] USER_JOIN 166 stream_1034 User 166 joined the session 
+[2023-10-27 10:39:05] STREAM_RESTART 101 stream_1052 Stream restarted. 
+[2023-10-27 10:39:50] STREAM_RESTART 171 stream_1035 Stream restarted. 
+[2023-10-27 10:40:02] USER_LEAVE 171 stream_1036 User 171 left the session 
+[2023-10-27 10:40:25] ERROR 108 stream_1018 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 10:41:17] WARNING 162 stream_1043 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 10:42:01] STREAM_RESTART 135 stream_1018 Stream restarted. 
+[2023-10-27 10:42:46] STREAM_RESTART 113 stream_1096 Stream restarted. 
+[2023-10-27 10:43:29] STREAM_STOP 164 stream_1067 User 164 stopped stream stream_1067 
+[2023-10-27 10:44:21] STREAM_RESTART 158 stream_1033 Stream restarted. 
+[2023-10-27 10:45:15] INFO 151 stream_1046 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 10:45:21] ERROR 162 stream_1011 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 10:45:37] INFO 105 stream_1052 User audio connected. 
+[2023-10-27 10:46:02] STREAM_START 171 stream_1051 User 171 started stream stream_1051 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 10:46:54] DEBUG 155 stream_1074 attempting to fix audio device. 
+[2023-10-27 10:47:15] USER_LEAVE 127 stream_1022 User 127 left the session 
+[2023-10-27 10:47:19] WARNING 136 stream_1058 Reconnected stream stable. 
+[2023-10-27 10:47:37] USER_LEAVE 117 stream_1024 User 117 left the session 
+[2023-10-27 10:48:30] STREAM_START 171 stream_1020 User 171 started stream stream_1020 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 10:49:09] WARNING 158 stream_1023 Audio device fixed. 
+[2023-10-27 10:50:06] DEBUG 139 stream_1077 Stream latency normal. [Latency:50ms] 
+[2023-10-27 10:50:57] STREAM_RESTART 101 stream_1081 Stream restarted. 
+[2023-10-27 10:51:35] STREAM_RECONNECT 154 stream_1028 Stream reconnected. 
+[2023-10-27 10:51:48] STREAM_RECONNECT 188 stream_1024 Stream reconnected. 
+[2023-10-27 10:52:39] STREAM_STOP 101 stream_1022 User 101 stopped stream stream_1022 
+[2023-10-27 10:53:07] WARNING 104 stream_1089 attempting to fix audio device. 
+[2023-10-27 10:53:54] USER_JOIN 111 stream_1093 User 111 joined the session 
+[2023-10-27 10:54:05] STREAM_RECONNECT 124 stream_1069 Stream reconnected. 
+[2023-10-27 10:54:51] CRITICAL 141 stream_1026 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 10:55:02] STREAM_RESTART 151 stream_1040 Stream restarted. 
+[2023-10-27 10:55:59] DEBUG 179 stream_1055 User audio connected. 
+[2023-10-27 10:56:00] WARNING 107 stream_1050 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 10:56:24] STREAM_RECONNECT 183 stream_1014 Stream reconnected. 
+[2023-10-27 10:56:52] STREAM_RESTART 167 stream_1039 Stream restarted. 
+[2023-10-27 10:56:59] STREAM_RECONNECT 118 stream_1095 Stream reconnected. 
+[2023-10-27 10:57:03] DEBUG 198 stream_1067 User audio connected. 
+[2023-10-27 10:57:38] STREAM_START 189 stream_1048 User 189 started stream stream_1048 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 10:58:29] WARNING 107 stream_1064 Stream bitrate stable. 
+[2023-10-27 10:59:21] USER_JOIN 100 stream_1037 User 100 joined the session 
+[2023-10-27 10:59:41] STREAM_RESTART 197 stream_1068 Stream restarted. 
+[2023-10-27 11:00:35] STREAM_START 127 stream_1064 User 127 started stream stream_1064 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 11:00:45] DEBUG 148 stream_1040 User audio connected. 
+[2023-10-27 11:01:11] ERROR 150 stream_1028 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 11:01:29] CRITICAL 151 stream_1021 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 11:02:14] DEBUG 191 stream_1080 Stream bitrate stable. 
+[2023-10-27 11:02:45] INFO 136 stream_1006 Stream bitrate stable. 
+[2023-10-27 11:03:15] USER_LEAVE 102 stream_1099 User 102 left the session 
+[2023-10-27 11:03:46] DEBUG 192 stream_1038 Stream latency normal. [Latency:50ms] 
+[2023-10-27 11:04:30] INFO 164 stream_1014 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 11:04:41] CRITICAL 141 stream_1056 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 11:05:20] ERROR 148 stream_1079 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 11:05:57] USER_LEAVE 184 stream_1061 User 184 left the session 
+[2023-10-27 11:06:01] USER_LEAVE 123 stream_1091 User 123 left the session 
+[2023-10-27 11:06:39] STREAM_RECONNECT 163 stream_1037 Stream reconnected. 
+[2023-10-27 11:06:42] INFO 144 stream_1064 High CPU usage detected [CPU:90%] 
+[2023-10-27 11:06:45] INFO 188 stream_1086 User audio connected. 
+[2023-10-27 11:06:57] ERROR 150 stream_1039 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 11:07:34] STREAM_STOP 164 stream_1019 User 164 stopped stream stream_1019 
+[2023-10-27 11:07:48] USER_LEAVE 104 stream_1038 User 104 left the session 
+[2023-10-27 11:07:51] USER_JOIN 105 stream_1046 User 105 joined the session 
+[2023-10-27 11:08:12] STREAM_RESTART 159 stream_1015 Stream restarted. 
+[2023-10-27 11:08:34] STREAM_RESTART 120 stream_1027 Stream restarted. 
+[2023-10-27 11:08:57] USER_LEAVE 104 stream_1005 User 104 left the session 
+[2023-10-27 11:09:23] STREAM_RECONNECT 149 stream_1093 Stream reconnected. 
+[2023-10-27 11:10:20] WARNING 145 stream_1046 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 11:11:12] STREAM_START 190 stream_1036 User 190 started stream stream_1036 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 11:12:01] ERROR 147 stream_1030 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 11:12:08] STREAM_RECONNECT 160 stream_1074 Stream reconnected. 
+[2023-10-27 11:13:00] WARNING 179 stream_1064 Packet loss detected. [Loss:10%] 
+[2023-10-27 11:13:19] INFO 158 stream_1082 User audio connected. 
+[2023-10-27 11:14:00] STREAM_RECONNECT 189 stream_1036 Stream reconnected. 
+[2023-10-27 11:14:03] STREAM_RECONNECT 160 stream_1021 Stream reconnected. 
+[2023-10-27 11:14:05] DEBUG 194 stream_1096 attempting to fix audio device. 
+[2023-10-27 11:14:08] STREAM_RECONNECT 197 stream_1034 Stream reconnected. 
+[2023-10-27 11:14:13] STREAM_STOP 170 stream_1038 User 170 stopped stream stream_1038 
+[2023-10-27 11:14:37] DEBUG 150 stream_1012 Packet loss detected. [Loss:10%] 
+[2023-10-27 11:14:47] STREAM_RECONNECT 167 stream_1051 Stream reconnected. 
+[2023-10-27 11:15:40] STREAM_START 124 stream_1005 User 124 started stream stream_1005 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 11:16:16] ERROR 148 stream_1039 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 11:16:39] DEBUG 185 stream_1052 Variable x set to 10 
+[2023-10-27 11:16:49] STREAM_START 124 stream_1002 User 124 started stream stream_1002 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 11:17:11] ERROR 162 stream_1069 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 11:17:49] WARNING 180 stream_1040 Audio device fixed. 
+[2023-10-27 11:18:18] DEBUG 195 stream_1083 Reconnected stream stable. 
+[2023-10-27 11:18:20] CRITICAL 103 stream_1041 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 11:19:06] USER_JOIN 189 stream_1069 User 189 joined the session 
+[2023-10-27 11:19:35] STREAM_START 125 stream_1000 User 125 started stream stream_1000 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 11:20:15] INFO 108 stream_1066 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 11:21:07] STREAM_STOP 113 stream_1057 User 113 stopped stream stream_1057 
+[2023-10-27 11:21:29] STREAM_RESTART 107 stream_1039 Stream restarted. 
+[2023-10-27 11:21:47] CRITICAL 143 stream_1046 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 11:21:55] USER_LEAVE 148 stream_1088 User 148 left the session 
+[2023-10-27 11:22:39] USER_JOIN 160 stream_1078 User 160 joined the session 
+[2023-10-27 11:22:41] CRITICAL 129 stream_1049 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 11:23:34] STREAM_RESTART 158 stream_1094 Stream restarted. 
+[2023-10-27 11:24:00] ERROR 114 stream_1089 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 11:24:36] WARNING 106 stream_1003 User audio connected. 
+[2023-10-27 11:25:29] STREAM_RECONNECT 162 stream_1089 Stream reconnected. 
+[2023-10-27 11:26:13] DEBUG 154 stream_1055 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 11:27:07] USER_LEAVE 115 stream_1089 User 115 left the session 
+[2023-10-27 11:27:57] ERROR 182 stream_1093 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 11:28:56] STREAM_STOP 184 stream_1043 User 184 stopped stream stream_1043 
+[2023-10-27 11:29:11] ERROR 146 stream_1086 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 11:29:41] USER_LEAVE 164 stream_1086 User 164 left the session 
+[2023-10-27 11:30:14] STREAM_RECONNECT 173 stream_1018 Stream reconnected. 
+[2023-10-27 11:30:22] ERROR 179 stream_1027 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 11:31:17] DEBUG 161 stream_1010 attempting to fix audio device. 
+[2023-10-27 11:31:53] STREAM_START 126 stream_1052 User 126 started stream stream_1052 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 11:32:11] CRITICAL 148 stream_1060 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 11:32:49] CRITICAL 143 stream_1096 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 11:33:41] STREAM_START 141 stream_1033 User 141 started stream stream_1033 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 11:34:24] USER_LEAVE 166 stream_1077 User 166 left the session 
+[2023-10-27 11:35:22] STREAM_RESTART 104 stream_1087 Stream restarted. 
+[2023-10-27 11:35:36] STREAM_RECONNECT 181 stream_1054 Stream reconnected. 
+[2023-10-27 11:35:38] USER_JOIN 164 stream_1036 User 164 joined the session 
+[2023-10-27 11:36:33] INFO 133 stream_1043 Reconnected stream stable. 
+[2023-10-27 11:36:53] INFO 108 stream_1027 Audio device fixed. 
+[2023-10-27 11:37:25] STREAM_RESTART 181 stream_1004 Stream restarted. 
+[2023-10-27 11:37:46] USER_LEAVE 185 stream_1003 User 185 left the session 
+[2023-10-27 11:38:27] USER_LEAVE 167 stream_1079 User 167 left the session 
+[2023-10-27 11:39:14] ERROR 140 stream_1085 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 11:40:01] WARNING 142 stream_1090 Reconnected stream stable. 
+[2023-10-27 11:40:28] STREAM_START 122 stream_1003 User 122 started stream stream_1003 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 11:41:27] USER_JOIN 150 stream_1076 User 150 joined the session 
+[2023-10-27 11:42:04] WARNING 169 stream_1016 Audio device fixed. 
+[2023-10-27 11:42:46] ERROR 151 stream_1065 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 11:43:03] STREAM_RECONNECT 130 stream_1070 Stream reconnected. 
+[2023-10-27 11:43:59] STREAM_RESTART 131 stream_1038 Stream restarted. 
+[2023-10-27 11:44:43] WARNING 129 stream_1097 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 11:45:26] ERROR 178 stream_1084 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 11:45:50] STREAM_RECONNECT 128 stream_1066 Stream reconnected. 
+[2023-10-27 11:46:35] STREAM_START 129 stream_1028 User 129 started stream stream_1028 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 11:47:17] USER_LEAVE 152 stream_1093 User 152 left the session 
+[2023-10-27 11:47:20] DEBUG 136 stream_1013 attempting to fix audio device. 
+[2023-10-27 11:47:52] WARNING 166 stream_1051 Audio device fixed. 
+[2023-10-27 11:48:03] ERROR 153 stream_1043 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 11:48:32] CRITICAL 118 stream_1080 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 11:48:49] WARNING 177 stream_1090 Stream latency normal. [Latency:50ms] 
+[2023-10-27 11:49:47] INFO 128 stream_1016 Stream latency normal. [Latency:50ms] 
+[2023-10-27 11:50:05] STREAM_STOP 191 stream_1044 User 191 stopped stream stream_1044 
+[2023-10-27 11:50:41] WARNING 187 stream_1084 High CPU usage detected [CPU:90%] 
+[2023-10-27 11:51:06] STREAM_STOP 100 stream_1084 User 100 stopped stream stream_1084 
+[2023-10-27 11:51:23] ERROR 122 stream_1061 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 11:52:10] WARNING 142 stream_1079 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 11:53:01] WARNING 106 stream_1055 User audio connected. 
+[2023-10-27 11:53:58] CRITICAL 122 stream_1058 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 11:54:48] USER_JOIN 140 stream_1040 User 140 joined the session 
+[2023-10-27 11:55:03] WARNING 140 stream_1023 Variable x set to 10 
+[2023-10-27 11:55:15] WARNING 104 stream_1084 Reconnected stream stable. 
+[2023-10-27 11:55:59] INFO 171 stream_1052 Packet loss detected. [Loss:10%] 
+[2023-10-27 11:56:00] STREAM_START 182 stream_1097 User 182 started stream stream_1097 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 11:56:11] STREAM_START 184 stream_1035 User 184 started stream stream_1035 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 11:56:57] USER_LEAVE 178 stream_1035 User 178 left the session 
+[2023-10-27 11:57:10] DEBUG 168 stream_1071 Reconnected stream stable. 
+[2023-10-27 11:57:40] STREAM_STOP 182 stream_1092 User 182 stopped stream stream_1092 
+[2023-10-27 11:57:54] USER_LEAVE 125 stream_1068 User 125 left the session 
+[2023-10-27 11:58:15] WARNING 149 stream_1021 High CPU usage detected [CPU:90%] 
+[2023-10-27 11:58:55] INFO 199 stream_1066 Variable x set to 10 
+[2023-10-27 11:59:15] DEBUG 190 stream_1072 High CPU usage detected [CPU:90%] 
+[2023-10-27 11:59:53] STREAM_RESTART 149 stream_1055 Stream restarted. 
+[2023-10-27 12:00:43] USER_JOIN 165 stream_1017 User 165 joined the session 
+[2023-10-27 12:01:39] WARNING 158 stream_1017 Audio device fixed. 
+[2023-10-27 12:01:52] STREAM_RESTART 129 stream_1013 Stream restarted. 
+[2023-10-27 12:02:31] STREAM_RESTART 197 stream_1035 Stream restarted. 
+[2023-10-27 12:03:06] STREAM_RESTART 144 stream_1085 Stream restarted. 
+[2023-10-27 12:04:06] USER_LEAVE 190 stream_1096 User 190 left the session 
+[2023-10-27 12:04:07] STREAM_START 114 stream_1022 User 114 started stream stream_1022 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 12:04:53] USER_JOIN 153 stream_1044 User 153 joined the session 
+[2023-10-27 12:05:39] DEBUG 124 stream_1047 Variable x set to 10 
+[2023-10-27 12:05:46] ERROR 153 stream_1039 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 12:06:31] DEBUG 146 stream_1084 Variable x set to 10 
+[2023-10-27 12:06:47] STREAM_RECONNECT 186 stream_1046 Stream reconnected. 
+[2023-10-27 12:07:24] STREAM_STOP 142 stream_1042 User 142 stopped stream stream_1042 
+[2023-10-27 12:07:28] WARNING 119 stream_1054 Stream bitrate stable. 
+[2023-10-27 12:08:17] STREAM_START 166 stream_1019 User 166 started stream stream_1019 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 12:09:04] STREAM_RECONNECT 104 stream_1070 Stream reconnected. 
+[2023-10-27 12:09:38] CRITICAL 193 stream_1058 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 12:09:51] DEBUG 146 stream_1072 Variable x set to 10 
+[2023-10-27 12:10:01] USER_LEAVE 167 stream_1006 User 167 left the session 
+[2023-10-27 12:10:21] WARNING 195 stream_1032 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 12:10:49] USER_LEAVE 101 stream_1074 User 101 left the session 
+[2023-10-27 12:11:30] ERROR 147 stream_1018 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:11:41] STREAM_RECONNECT 173 stream_1092 Stream reconnected. 
+[2023-10-27 12:12:10] STREAM_START 195 stream_1092 User 195 started stream stream_1092 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 12:13:05] USER_LEAVE 119 stream_1070 User 119 left the session 
+[2023-10-27 12:13:32] ERROR 193 stream_1044 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 12:13:52] INFO 130 stream_1020 User audio connected. 
+[2023-10-27 12:14:41] WARNING 165 stream_1096 User audio connected. 
+[2023-10-27 12:14:59] CRITICAL 103 stream_1038 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 12:15:42] DEBUG 161 stream_1006 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 12:16:42] CRITICAL 189 stream_1038 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:16:55] USER_LEAVE 180 stream_1034 User 180 left the session 
+[2023-10-27 12:17:23] WARNING 156 stream_1043 Reconnected stream stable. 
+[2023-10-27 12:17:35] STREAM_RESTART 186 stream_1071 Stream restarted. 
+[2023-10-27 12:17:53] ERROR 122 stream_1084 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 12:18:50] STREAM_START 152 stream_1000 User 152 started stream stream_1000 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 12:19:37] USER_LEAVE 196 stream_1074 User 196 left the session 
+[2023-10-27 12:19:48] STREAM_RECONNECT 153 stream_1047 Stream reconnected. 
+[2023-10-27 12:19:56] USER_JOIN 193 stream_1055 User 193 joined the session 
+[2023-10-27 12:20:38] USER_LEAVE 107 stream_1084 User 107 left the session 
+[2023-10-27 12:21:34] STREAM_START 100 stream_1068 User 100 started stream stream_1068 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 12:22:12] INFO 144 stream_1071 attempting to fix audio device. 
+[2023-10-27 12:22:54] STREAM_RECONNECT 193 stream_1058 Stream reconnected. 
+[2023-10-27 12:23:46] STREAM_RECONNECT 158 stream_1074 Stream reconnected. 
+[2023-10-27 12:24:32] DEBUG 152 stream_1043 User audio connected. 
+[2023-10-27 12:24:37] STREAM_START 189 stream_1017 User 189 started stream stream_1017 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 12:25:35] ERROR 181 stream_1053 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:26:28] INFO 167 stream_1010 Reconnected stream stable. 
+[2023-10-27 12:27:24] USER_LEAVE 199 stream_1090 User 199 left the session 
+[2023-10-27 12:27:43] DEBUG 119 stream_1059 High CPU usage detected [CPU:90%] 
+[2023-10-27 12:28:30] STREAM_RECONNECT 163 stream_1058 Stream reconnected. 
+[2023-10-27 12:28:54] CRITICAL 121 stream_1072 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 12:29:47] WARNING 156 stream_1037 attempting to fix audio device. 
+[2023-10-27 12:29:50] CRITICAL 172 stream_1055 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:30:15] STREAM_START 168 stream_1064 User 168 started stream stream_1064 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 12:30:17] USER_JOIN 111 stream_1087 User 111 joined the session 
+[2023-10-27 12:30:25] STREAM_STOP 179 stream_1059 User 179 stopped stream stream_1059 
+[2023-10-27 12:31:25] STREAM_RESTART 157 stream_1008 Stream restarted. 
+[2023-10-27 12:31:31] STREAM_START 198 stream_1004 User 198 started stream stream_1004 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 12:32:02] STREAM_STOP 141 stream_1071 User 141 stopped stream stream_1071 
+[2023-10-27 12:32:31] STREAM_RESTART 151 stream_1029 Stream restarted. 
+[2023-10-27 12:33:02] STREAM_STOP 184 stream_1007 User 184 stopped stream stream_1007 
+[2023-10-27 12:33:26] STREAM_RESTART 108 stream_1019 Stream restarted. 
+[2023-10-27 12:34:18] USER_LEAVE 169 stream_1098 User 169 left the session 
+[2023-10-27 12:35:09] INFO 111 stream_1067 Stream bitrate stable. 
+[2023-10-27 12:35:58] CRITICAL 166 stream_1052 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 12:36:52] USER_JOIN 143 stream_1008 User 143 joined the session 
+[2023-10-27 12:37:18] WARNING 154 stream_1087 Audio device fixed. 
+[2023-10-27 12:38:13] USER_LEAVE 112 stream_1056 User 112 left the session 
+[2023-10-27 12:38:24] ERROR 114 stream_1083 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 12:39:22] STREAM_RESTART 190 stream_1030 Stream restarted. 
+[2023-10-27 12:39:48] INFO 178 stream_1054 High CPU usage detected [CPU:90%] 
+[2023-10-27 12:40:02] STREAM_STOP 163 stream_1023 User 163 stopped stream stream_1023 
+[2023-10-27 12:40:55] STREAM_RECONNECT 180 stream_1079 Stream reconnected. 
+[2023-10-27 12:41:37] STREAM_RECONNECT 192 stream_1085 Stream reconnected. 
+[2023-10-27 12:42:18] STREAM_START 124 stream_1016 User 124 started stream stream_1016 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 12:42:30] CRITICAL 107 stream_1050 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 12:42:50] CRITICAL 129 stream_1061 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:43:38] STREAM_START 197 stream_1065 User 197 started stream stream_1065 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 12:44:13] CRITICAL 187 stream_1077 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:44:18] DEBUG 111 stream_1062 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 12:45:01] STREAM_START 197 stream_1021 User 197 started stream stream_1021 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 12:45:05] WARNING 102 stream_1042 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 12:46:00] USER_LEAVE 169 stream_1044 User 169 left the session 
+[2023-10-27 12:46:34] STREAM_STOP 194 stream_1020 User 194 stopped stream stream_1020 
+[2023-10-27 12:47:28] ERROR 109 stream_1043 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 12:48:21] WARNING 197 stream_1031 Stream latency normal. [Latency:50ms] 
+[2023-10-27 12:48:38] USER_LEAVE 156 stream_1094 User 156 left the session 
+[2023-10-27 12:49:15] INFO 170 stream_1040 Packet loss detected. [Loss:10%] 
+[2023-10-27 12:50:11] CRITICAL 184 stream_1031 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 12:51:06] STREAM_STOP 147 stream_1063 User 147 stopped stream stream_1063 
+[2023-10-27 12:51:13] USER_LEAVE 158 stream_1041 User 158 left the session 
+[2023-10-27 12:51:28] STREAM_START 191 stream_1079 User 191 started stream stream_1079 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 12:51:46] STREAM_RESTART 157 stream_1054 Stream restarted. 
+[2023-10-27 12:52:44] STREAM_STOP 173 stream_1024 User 173 stopped stream stream_1024 
+[2023-10-27 12:52:50] ERROR 153 stream_1071 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 12:53:21] STREAM_RESTART 100 stream_1090 Stream restarted. 
+[2023-10-27 12:54:20] INFO 145 stream_1080 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 12:55:20] USER_LEAVE 151 stream_1043 User 151 left the session 
+[2023-10-27 12:55:22] USER_JOIN 109 stream_1087 User 109 joined the session 
+[2023-10-27 12:56:02] DEBUG 167 stream_1082 Variable x set to 10 
+[2023-10-27 12:56:38] DEBUG 151 stream_1094 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 12:57:08] INFO 105 stream_1020 High CPU usage detected [CPU:90%] 
+[2023-10-27 12:57:09] USER_JOIN 192 stream_1057 User 192 joined the session 
+[2023-10-27 12:57:53] STREAM_STOP 154 stream_1035 User 154 stopped stream stream_1035 
+[2023-10-27 12:58:00] CRITICAL 138 stream_1040 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 12:58:38] STREAM_START 106 stream_1002 User 106 started stream stream_1002 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 12:59:37] STREAM_STOP 183 stream_1061 User 183 stopped stream stream_1061 
+[2023-10-27 13:00:37] STREAM_RESTART 161 stream_1064 Stream restarted. 
+[2023-10-27 13:01:11] INFO 100 stream_1067 Variable x set to 10 
+[2023-10-27 13:01:29] USER_JOIN 139 stream_1058 User 139 joined the session 
+[2023-10-27 13:02:16] USER_LEAVE 107 stream_1070 User 107 left the session 
+[2023-10-27 13:02:42] STREAM_RESTART 150 stream_1078 Stream restarted. 
+[2023-10-27 13:03:00] STREAM_RECONNECT 136 stream_1003 Stream reconnected. 
+[2023-10-27 13:03:31] USER_LEAVE 107 stream_1010 User 107 left the session 
+[2023-10-27 13:04:04] INFO 193 stream_1056 Stream bitrate stable. 
+[2023-10-27 13:04:56] DEBUG 144 stream_1040 User audio connected. 
+[2023-10-27 13:04:59] ERROR 184 stream_1095 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 13:05:47] WARNING 188 stream_1064 User audio connected. 
+[2023-10-27 13:06:20] STREAM_START 186 stream_1019 User 186 started stream stream_1019 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 13:06:44] DEBUG 133 stream_1048 High CPU usage detected [CPU:90%] 
+[2023-10-27 13:07:28] INFO 180 stream_1022 Audio device fixed. 
+[2023-10-27 13:07:33] INFO 180 stream_1046 Audio device fixed. 
+[2023-10-27 13:08:09] USER_LEAVE 111 stream_1038 User 111 left the session 
+[2023-10-27 13:08:38] CRITICAL 127 stream_1076 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 13:09:31] WARNING 173 stream_1016 Packet loss detected. [Loss:10%] 
+[2023-10-27 13:09:35] STREAM_RESTART 149 stream_1059 Stream restarted. 
+[2023-10-27 13:09:40] DEBUG 160 stream_1061 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 13:10:12] INFO 186 stream_1070 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 13:10:46] STREAM_RECONNECT 190 stream_1035 Stream reconnected. 
+[2023-10-27 13:11:32] STREAM_START 111 stream_1031 User 111 started stream stream_1031 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 13:12:03] ERROR 108 stream_1084 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 13:12:29] INFO 145 stream_1018 attempting to fix audio device. 
+[2023-10-27 13:12:48] USER_LEAVE 166 stream_1048 User 166 left the session 
+[2023-10-27 13:13:08] USER_LEAVE 176 stream_1004 User 176 left the session 
+[2023-10-27 13:13:12] WARNING 136 stream_1005 High CPU usage detected [CPU:90%] 
+[2023-10-27 13:13:56] WARNING 116 stream_1097 attempting to fix audio device. 
+[2023-10-27 13:14:29] USER_JOIN 124 stream_1058 User 124 joined the session 
+[2023-10-27 13:15:23] STREAM_START 139 stream_1039 User 139 started stream stream_1039 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 13:15:44] CRITICAL 198 stream_1013 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 13:16:18] INFO 140 stream_1086 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 13:17:17] STREAM_RESTART 106 stream_1054 Stream restarted. 
+[2023-10-27 13:18:17] DEBUG 184 stream_1031 Variable x set to 10 
+[2023-10-27 13:18:28] WARNING 178 stream_1087 User audio connected. 
+[2023-10-27 13:18:48] DEBUG 197 stream_1024 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 13:19:34] USER_JOIN 169 stream_1096 User 169 joined the session 
+[2023-10-27 13:19:38] USER_JOIN 107 stream_1009 User 107 joined the session 
+[2023-10-27 13:20:03] STREAM_RECONNECT 128 stream_1020 Stream reconnected. 
+[2023-10-27 13:20:04] WARNING 112 stream_1078 Stream latency normal. [Latency:50ms] 
+[2023-10-27 13:20:56] STREAM_STOP 138 stream_1017 User 138 stopped stream stream_1017 
+[2023-10-27 13:21:39] STREAM_RESTART 161 stream_1055 Stream restarted. 
+[2023-10-27 13:22:37] DEBUG 177 stream_1032 Variable x set to 10 
+[2023-10-27 13:23:22] USER_LEAVE 179 stream_1064 User 179 left the session 
+[2023-10-27 13:23:58] USER_JOIN 182 stream_1042 User 182 joined the session 
+[2023-10-27 13:24:03] WARNING 161 stream_1019 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 13:24:28] DEBUG 164 stream_1048 Reconnected stream stable. 
+[2023-10-27 13:25:15] USER_JOIN 107 stream_1011 User 107 joined the session 
+[2023-10-27 13:25:45] ERROR 189 stream_1088 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 13:26:39] WARNING 119 stream_1088 attempting to fix audio device. 
+[2023-10-27 13:27:25] STREAM_STOP 143 stream_1016 User 143 stopped stream stream_1016 
+[2023-10-27 13:28:09] STREAM_RECONNECT 116 stream_1096 Stream reconnected. 
+[2023-10-27 13:28:48] STREAM_RECONNECT 140 stream_1074 Stream reconnected. 
+[2023-10-27 13:29:29] STREAM_START 190 stream_1041 User 190 started stream stream_1041 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 13:30:13] STREAM_STOP 164 stream_1029 User 164 stopped stream stream_1029 
+[2023-10-27 13:30:22] DEBUG 137 stream_1020 High CPU usage detected [CPU:90%] 
+[2023-10-27 13:30:30] USER_JOIN 144 stream_1014 User 144 joined the session 
+[2023-10-27 13:31:29] INFO 159 stream_1080 attempting to fix audio device. 
+[2023-10-27 13:31:31] DEBUG 105 stream_1060 High CPU usage detected [CPU:90%] 
+[2023-10-27 13:31:44] STREAM_RECONNECT 103 stream_1016 Stream reconnected. 
+[2023-10-27 13:32:27] STREAM_START 193 stream_1009 User 193 started stream stream_1009 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 13:32:47] STREAM_START 157 stream_1032 User 157 started stream stream_1032 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 13:33:42] DEBUG 159 stream_1056 Audio device fixed. 
+[2023-10-27 13:33:43] INFO 192 stream_1035 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 13:34:43] CRITICAL 138 stream_1023 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 13:35:38] ERROR 183 stream_1010 Stream error [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 13:36:24] USER_LEAVE 174 stream_1032 User 174 left the session 
+[2023-10-27 13:36:34] WARNING 185 stream_1001 User audio connected. 
+[2023-10-27 13:37:26] STREAM_RECONNECT 141 stream_1017 Stream reconnected. 
+[2023-10-27 13:38:11] STREAM_RESTART 112 stream_1087 Stream restarted. 
+[2023-10-27 13:38:40] WARNING 195 stream_1042 High CPU usage detected [CPU:90%] 
+[2023-10-27 13:39:13] WARNING 121 stream_1006 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 13:39:53] CRITICAL 175 stream_1039 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 13:40:41] WARNING 179 stream_1033 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 13:41:17] ERROR 170 stream_1011 Stream error [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 13:41:55] CRITICAL 159 stream_1081 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 13:42:50] STREAM_START 188 stream_1038 User 188 started stream stream_1038 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 13:43:45] USER_JOIN 138 stream_1013 User 138 joined the session 
+[2023-10-27 13:44:35] WARNING 122 stream_1023 Packet loss detected. [Loss:10%] 
+[2023-10-27 13:44:59] CRITICAL 144 stream_1095 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 13:45:15] USER_LEAVE 122 stream_1002 User 122 left the session 
+[2023-10-27 13:46:07] DEBUG 179 stream_1052 Audio device fixed. 
+[2023-10-27 13:46:57] CRITICAL 107 stream_1092 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 13:47:39] DEBUG 160 stream_1070 Variable x set to 10 
+[2023-10-27 13:47:42] USER_LEAVE 180 stream_1042 User 180 left the session 
+[2023-10-27 13:48:06] USER_LEAVE 134 stream_1011 User 134 left the session 
+[2023-10-27 13:48:15] STREAM_START 111 stream_1095 User 111 started stream stream_1095 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 13:48:35] USER_LEAVE 158 stream_1058 User 158 left the session 
+[2023-10-27 13:49:03] ERROR 121 stream_1054 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 13:49:26] STREAM_RECONNECT 178 stream_1035 Stream reconnected. 
+[2023-10-27 13:49:37] INFO 198 stream_1093 Packet loss detected. [Loss:10%] 
+[2023-10-27 13:50:32] INFO 110 stream_1090 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 13:51:29] CRITICAL 188 stream_1011 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 13:51:55] STREAM_RESTART 107 stream_1007 Stream restarted. 
+[2023-10-27 13:52:39] STREAM_START 194 stream_1043 User 194 started stream stream_1043 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 13:53:32] INFO 117 stream_1032 User audio connected. 
+[2023-10-27 13:53:36] DEBUG 100 stream_1020 Reconnected stream stable. 
+[2023-10-27 13:53:50] DEBUG 148 stream_1088 Audio device fixed. 
+[2023-10-27 13:54:16] STREAM_RECONNECT 185 stream_1080 Stream reconnected. 
+[2023-10-27 13:54:52] ERROR 195 stream_1036 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 13:54:54] STREAM_RECONNECT 157 stream_1063 Stream reconnected. 
+[2023-10-27 13:55:14] STREAM_START 162 stream_1016 User 162 started stream stream_1016 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 13:55:25] USER_JOIN 153 stream_1092 User 153 joined the session 
+[2023-10-27 13:55:35] DEBUG 165 stream_1000 attempting to fix audio device. 
+[2023-10-27 13:56:09] USER_LEAVE 131 stream_1075 User 131 left the session 
+[2023-10-27 13:56:57] DEBUG 168 stream_1005 Stream latency normal. [Latency:50ms] 
+[2023-10-27 13:57:42] WARNING 183 stream_1018 Stream bitrate stable. 
+[2023-10-27 13:57:47] DEBUG 150 stream_1008 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 13:58:36] STREAM_STOP 119 stream_1043 User 119 stopped stream stream_1043 
+[2023-10-27 13:59:00] STREAM_START 158 stream_1011 User 158 started stream stream_1011 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 13:59:29] USER_JOIN 174 stream_1009 User 174 joined the session 
+[2023-10-27 14:00:26] WARNING 193 stream_1002 Stream latency normal. [Latency:50ms] 
+[2023-10-27 14:01:08] INFO 143 stream_1005 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 14:01:29] WARNING 110 stream_1027 Reconnected stream stable. 
+[2023-10-27 14:01:47] WARNING 100 stream_1005 Reconnected stream stable. 
+[2023-10-27 14:02:44] STREAM_START 189 stream_1095 User 189 started stream stream_1095 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 14:03:28] DEBUG 127 stream_1067 User audio connected. 
+[2023-10-27 14:03:48] STREAM_STOP 173 stream_1000 User 173 stopped stream stream_1000 
+[2023-10-27 14:04:22] INFO 133 stream_1048 Stream bitrate stable. 
+[2023-10-27 14:05:02] USER_JOIN 194 stream_1002 User 194 joined the session 
+[2023-10-27 14:05:19] CRITICAL 151 stream_1062 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 14:06:09] ERROR 148 stream_1090 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 14:06:27] INFO 107 stream_1025 Variable x set to 10 
+[2023-10-27 14:07:19] STREAM_RESTART 195 stream_1039 Stream restarted. 
+[2023-10-27 14:07:55] STREAM_START 172 stream_1095 User 172 started stream stream_1095 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 14:08:50] STREAM_RESTART 182 stream_1038 Stream restarted. 
+[2023-10-27 14:09:18] USER_JOIN 113 stream_1087 User 113 joined the session 
+[2023-10-27 14:09:57] STREAM_STOP 167 stream_1040 User 167 stopped stream stream_1040 
+[2023-10-27 14:10:43] STREAM_STOP 197 stream_1001 User 197 stopped stream stream_1001 
+[2023-10-27 14:10:52] STREAM_START 141 stream_1023 User 141 started stream stream_1023 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 14:11:49] STREAM_RESTART 119 stream_1095 Stream restarted. 
+[2023-10-27 14:12:48] CRITICAL 152 stream_1084 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 14:13:14] INFO 114 stream_1008 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 14:14:07] CRITICAL 103 stream_1053 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 14:14:34] USER_LEAVE 153 stream_1028 User 153 left the session 
+[2023-10-27 14:15:18] WARNING 177 stream_1031 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 14:15:20] DEBUG 155 stream_1043 attempting to fix audio device. 
+[2023-10-27 14:16:04] INFO 158 stream_1037 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 14:16:53] WARNING 190 stream_1013 User audio connected. 
+[2023-10-27 14:17:24] CRITICAL 112 stream_1061 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 14:17:29] USER_JOIN 143 stream_1018 User 143 joined the session 
+[2023-10-27 14:18:17] WARNING 134 stream_1051 User audio connected. 
+[2023-10-27 14:19:07] STREAM_RECONNECT 146 stream_1034 Stream reconnected. 
+[2023-10-27 14:19:19] USER_LEAVE 125 stream_1039 User 125 left the session 
+[2023-10-27 14:20:03] INFO 166 stream_1054 Reconnected stream stable. 
+[2023-10-27 14:20:45] WARNING 112 stream_1060 User audio connected. 
+[2023-10-27 14:21:04] STREAM_START 171 stream_1002 User 171 started stream stream_1002 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 14:21:10] CRITICAL 165 stream_1049 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 14:21:57] STREAM_RECONNECT 193 stream_1025 Stream reconnected. 
+[2023-10-27 14:22:21] ERROR 157 stream_1075 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 14:23:05] STREAM_RECONNECT 182 stream_1046 Stream reconnected. 
+[2023-10-27 14:23:35] STREAM_START 165 stream_1070 User 165 started stream stream_1070 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 14:23:47] ERROR 106 stream_1092 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 14:24:01] STREAM_RECONNECT 186 stream_1077 Stream reconnected. 
+[2023-10-27 14:24:08] CRITICAL 105 stream_1021 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 14:24:44] STREAM_START 122 stream_1022 User 122 started stream stream_1022 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 14:24:52] STREAM_RESTART 174 stream_1007 Stream restarted. 
+[2023-10-27 14:25:08] CRITICAL 179 stream_1057 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 14:25:51] STREAM_START 154 stream_1009 User 154 started stream stream_1009 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 14:26:44] CRITICAL 111 stream_1077 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 14:27:41] STREAM_STOP 147 stream_1061 User 147 stopped stream stream_1061 
+[2023-10-27 14:28:00] USER_JOIN 165 stream_1080 User 165 joined the session 
+[2023-10-27 14:28:41] WARNING 105 stream_1067 attempting to fix audio device. 
+[2023-10-27 14:29:23] INFO 150 stream_1067 Stream bitrate stable. 
+[2023-10-27 14:29:32] STREAM_RESTART 167 stream_1005 Stream restarted. 
+[2023-10-27 14:29:41] USER_LEAVE 105 stream_1055 User 105 left the session 
+[2023-10-27 14:30:24] USER_JOIN 147 stream_1079 User 147 joined the session 
+[2023-10-27 14:30:39] DEBUG 127 stream_1097 Stream bitrate stable. 
+[2023-10-27 14:30:41] USER_JOIN 129 stream_1049 User 129 joined the session 
+[2023-10-27 14:30:44] USER_LEAVE 105 stream_1048 User 105 left the session 
+[2023-10-27 14:30:47] INFO 164 stream_1049 attempting to fix audio device. 
+[2023-10-27 14:31:46] WARNING 144 stream_1067 Packet loss detected. [Loss:10%] 
+[2023-10-27 14:32:11] INFO 166 stream_1014 attempting to fix audio device. 
+[2023-10-27 14:33:03] STREAM_STOP 152 stream_1014 User 152 stopped stream stream_1014 
+[2023-10-27 14:33:39] STREAM_START 123 stream_1041 User 123 started stream stream_1041 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 14:34:30] USER_LEAVE 136 stream_1098 User 136 left the session 
+[2023-10-27 14:35:10] USER_JOIN 126 stream_1037 User 126 joined the session 
+[2023-10-27 14:36:06] ERROR 176 stream_1063 Stream error [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 14:36:13] USER_JOIN 158 stream_1034 User 158 joined the session 
+[2023-10-27 14:36:34] INFO 148 stream_1084 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 14:37:19] STREAM_STOP 110 stream_1042 User 110 stopped stream stream_1042 
+[2023-10-27 14:37:48] STREAM_START 173 stream_1030 User 173 started stream stream_1030 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 14:38:42] STREAM_START 117 stream_1044 User 117 started stream stream_1044 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 14:38:51] ERROR 193 stream_1099 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 14:39:04] CRITICAL 145 stream_1086 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 14:39:22] INFO 180 stream_1059 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 14:40:17] STREAM_STOP 179 stream_1080 User 179 stopped stream stream_1080 
+[2023-10-27 14:40:54] CRITICAL 127 stream_1086 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 14:41:48] USER_LEAVE 107 stream_1055 User 107 left the session 
+[2023-10-27 14:42:35] USER_LEAVE 163 stream_1047 User 163 left the session 
+[2023-10-27 14:42:52] STREAM_RECONNECT 115 stream_1084 Stream reconnected. 
+[2023-10-27 14:43:01] USER_LEAVE 152 stream_1097 User 152 left the session 
+[2023-10-27 14:43:16] ERROR 110 stream_1098 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 14:44:06] DEBUG 151 stream_1061 attempting to fix audio device. 
+[2023-10-27 14:44:25] STREAM_START 187 stream_1033 User 187 started stream stream_1033 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 14:44:46] DEBUG 150 stream_1000 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 14:45:23] USER_JOIN 175 stream_1004 User 175 joined the session 
+[2023-10-27 14:45:52] ERROR 188 stream_1093 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 14:46:09] USER_LEAVE 168 stream_1094 User 168 left the session 
+[2023-10-27 14:47:00] USER_JOIN 176 stream_1074 User 176 joined the session 
+[2023-10-27 14:47:59] INFO 100 stream_1049 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 14:48:21] ERROR 123 stream_1003 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 14:49:02] STREAM_RESTART 178 stream_1012 Stream restarted. 
+[2023-10-27 14:49:37] INFO 189 stream_1092 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 14:50:23] USER_JOIN 156 stream_1057 User 156 joined the session 
+[2023-10-27 14:50:42] DEBUG 160 stream_1052 High CPU usage detected [CPU:90%] 
+[2023-10-27 14:51:02] STREAM_START 123 stream_1053 User 123 started stream stream_1053 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 14:51:05] USER_LEAVE 181 stream_1036 User 181 left the session 
+[2023-10-27 14:51:45] WARNING 147 stream_1047 Stream latency normal. [Latency:50ms] 
+[2023-10-27 14:52:03] INFO 197 stream_1026 Stream latency normal. [Latency:50ms] 
+[2023-10-27 14:52:43] INFO 190 stream_1057 Audio device fixed. 
+[2023-10-27 14:53:36] USER_LEAVE 101 stream_1028 User 101 left the session 
+[2023-10-27 14:54:15] WARNING 187 stream_1028 User audio connected. 
+[2023-10-27 14:54:26] INFO 159 stream_1097 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 14:54:59] STREAM_STOP 185 stream_1032 User 185 stopped stream stream_1032 
+[2023-10-27 14:55:21] WARNING 152 stream_1056 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 14:56:19] INFO 180 stream_1013 attempting to fix audio device. 
+[2023-10-27 14:56:38] ERROR 103 stream_1062 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 14:57:07] CRITICAL 193 stream_1034 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 14:57:23] STREAM_STOP 169 stream_1018 User 169 stopped stream stream_1018 
+[2023-10-27 14:58:16] STREAM_RECONNECT 195 stream_1018 Stream reconnected. 
+[2023-10-27 14:58:48] USER_LEAVE 191 stream_1020 User 191 left the session 
+[2023-10-27 14:58:56] WARNING 157 stream_1053 Reconnected stream stable. 
+[2023-10-27 14:59:07] USER_JOIN 122 stream_1039 User 122 joined the session 
+[2023-10-27 14:59:28] DEBUG 131 stream_1061 Packet loss detected. [Loss:10%] 
+[2023-10-27 14:59:35] WARNING 184 stream_1066 High CPU usage detected [CPU:90%] 
+[2023-10-27 15:00:06] STREAM_RESTART 128 stream_1050 Stream restarted. 
+[2023-10-27 15:00:41] ERROR 166 stream_1018 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 15:00:50] STREAM_RECONNECT 134 stream_1046 Stream reconnected. 
+[2023-10-27 15:01:27] WARNING 143 stream_1008 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 15:01:54] ERROR 170 stream_1044 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 15:02:38] USER_LEAVE 163 stream_1083 User 163 left the session 
+[2023-10-27 15:03:19] CRITICAL 195 stream_1086 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 15:04:05] STREAM_STOP 140 stream_1032 User 140 stopped stream stream_1032 
+[2023-10-27 15:04:26] STREAM_RESTART 188 stream_1041 Stream restarted. 
+[2023-10-27 15:05:20] STREAM_RECONNECT 126 stream_1050 Stream reconnected. 
+[2023-10-27 15:05:33] STREAM_START 166 stream_1062 User 166 started stream stream_1062 [Codec:H264, Bitrate:2048kbps] 
+[2023-10-27 15:06:18] CRITICAL 146 stream_1017 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 15:07:12] STREAM_RESTART 129 stream_1081 Stream restarted. 
+[2023-10-27 15:07:17] STREAM_STOP 148 stream_1035 User 148 stopped stream stream_1035 
+[2023-10-27 15:07:22] DEBUG 199 stream_1083 Packet loss detected. [Loss:10%] 
+[2023-10-27 15:08:13] STREAM_START 164 stream_1042 User 164 started stream stream_1042 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 15:08:42] USER_LEAVE 147 stream_1077 User 147 left the session 
+[2023-10-27 15:09:31] INFO 142 stream_1062 Stream latency normal. [Latency:50ms] 
+[2023-10-27 15:10:17] STREAM_RESTART 175 stream_1032 Stream restarted. 
+[2023-10-27 15:10:55] STREAM_RESTART 148 stream_1090 Stream restarted. 
+[2023-10-27 15:11:06] INFO 132 stream_1048 High CPU usage detected [CPU:90%] 
+[2023-10-27 15:11:38] WARNING 187 stream_1092 attempting to fix audio device. 
+[2023-10-27 15:12:29] DEBUG 198 stream_1061 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 15:13:21] CRITICAL 163 stream_1068 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 15:13:57] CRITICAL 126 stream_1059 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 15:14:22] STREAM_RESTART 188 stream_1076 Stream restarted. 
+[2023-10-27 15:15:22] USER_LEAVE 117 stream_1078 User 117 left the session 
+[2023-10-27 15:15:38] USER_LEAVE 198 stream_1090 User 198 left the session 
+[2023-10-27 15:15:55] USER_LEAVE 199 stream_1025 User 199 left the session 
+[2023-10-27 15:16:22] DEBUG 156 stream_1003 High CPU usage detected [CPU:90%] 
+[2023-10-27 15:16:47] WARNING 133 stream_1022 Stream latency normal. [Latency:50ms] 
+[2023-10-27 15:17:06] USER_JOIN 153 stream_1051 User 153 joined the session 
+[2023-10-27 15:17:47] CRITICAL 104 stream_1068 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 15:18:30] INFO 104 stream_1061 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 15:19:17] DEBUG 140 stream_1041 Audio device fixed. 
+[2023-10-27 15:20:08] USER_JOIN 114 stream_1051 User 114 joined the session 
+[2023-10-27 15:20:10] WARNING 135 stream_1095 attempting to fix audio device. 
+[2023-10-27 15:20:53] CRITICAL 166 stream_1071 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 15:20:57] STREAM_RESTART 112 stream_1051 Stream restarted. 
+[2023-10-27 15:21:09] USER_JOIN 198 stream_1005 User 198 joined the session 
+[2023-10-27 15:21:54] WARNING 102 stream_1014 attempting to fix audio device. 
+[2023-10-27 15:22:03] CRITICAL 150 stream_1013 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 15:23:00] ERROR 109 stream_1034 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 15:23:25] STREAM_STOP 193 stream_1090 User 193 stopped stream stream_1090 
+[2023-10-27 15:24:22] ERROR 164 stream_1069 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 15:24:43] USER_JOIN 183 stream_1014 User 183 joined the session 
+[2023-10-27 15:24:48] DEBUG 159 stream_1071 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 15:25:38] ERROR 140 stream_1086 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 15:26:21] ERROR 117 stream_1032 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 15:26:58] USER_LEAVE 171 stream_1083 User 171 left the session 
+[2023-10-27 15:27:20] STREAM_RECONNECT 138 stream_1038 Stream reconnected. 
+[2023-10-27 15:28:03] STREAM_RECONNECT 183 stream_1004 Stream reconnected. 
+[2023-10-27 15:28:16] WARNING 104 stream_1041 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 15:28:35] DEBUG 100 stream_1002 Reconnected stream stable. 
+[2023-10-27 15:29:18] STREAM_START 145 stream_1094 User 145 started stream stream_1094 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 15:30:02] STREAM_STOP 196 stream_1010 User 196 stopped stream stream_1010 
+[2023-10-27 15:30:15] STREAM_RECONNECT 130 stream_1073 Stream reconnected. 
+[2023-10-27 15:30:47] STREAM_START 142 stream_1021 User 142 started stream stream_1021 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 15:31:16] STREAM_STOP 153 stream_1088 User 153 stopped stream stream_1088 
+[2023-10-27 15:31:57] USER_LEAVE 148 stream_1074 User 148 left the session 
+[2023-10-27 15:32:43] STREAM_RECONNECT 127 stream_1077 Stream reconnected. 
+[2023-10-27 15:32:55] STREAM_RECONNECT 107 stream_1082 Stream reconnected. 
+[2023-10-27 15:32:56] WARNING 186 stream_1040 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 15:33:32] INFO 119 stream_1099 Reconnected stream stable. 
+[2023-10-27 15:33:34] STREAM_STOP 189 stream_1045 User 189 stopped stream stream_1045 
+[2023-10-27 15:34:34] INFO 100 stream_1068 Stream bitrate stable. 
+[2023-10-27 15:35:33] STREAM_RESTART 108 stream_1003 Stream restarted. 
+[2023-10-27 15:36:17] ERROR 126 stream_1083 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 15:36:36] USER_LEAVE 141 stream_1090 User 141 left the session 
+[2023-10-27 15:37:05] STREAM_RECONNECT 193 stream_1060 Stream reconnected. 
+[2023-10-27 15:37:27] INFO 104 stream_1029 Stream latency normal. [Latency:50ms] 
+[2023-10-27 15:38:06] WARNING 184 stream_1053 Audio device fixed. 
+[2023-10-27 15:38:47] INFO 198 stream_1093 Stream bitrate stable. 
+[2023-10-27 15:38:51] WARNING 172 stream_1017 Packet loss detected. [Loss:10%] 
+[2023-10-27 15:39:49] USER_LEAVE 102 stream_1071 User 102 left the session 
+[2023-10-27 15:40:23] CRITICAL 149 stream_1003 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 15:41:03] USER_LEAVE 120 stream_1027 User 120 left the session 
+[2023-10-27 15:42:01] USER_LEAVE 192 stream_1039 User 192 left the session 
+[2023-10-27 15:43:00] USER_JOIN 183 stream_1078 User 183 joined the session 
+[2023-10-27 15:43:02] WARNING 169 stream_1000 Reconnected stream stable. 
+[2023-10-27 15:43:03] STREAM_RESTART 142 stream_1023 Stream restarted. 
+[2023-10-27 15:44:03] STREAM_RESTART 169 stream_1092 Stream restarted. 
+[2023-10-27 15:44:05] ERROR 122 stream_1052 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 15:44:44] DEBUG 105 stream_1060 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 15:45:01] STREAM_RECONNECT 176 stream_1004 Stream reconnected. 
+[2023-10-27 15:45:59] WARNING 129 stream_1010 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 15:46:53] USER_LEAVE 171 stream_1043 User 171 left the session 
+[2023-10-27 15:47:51] STREAM_RESTART 107 stream_1005 Stream restarted. 
+[2023-10-27 15:48:23] USER_JOIN 178 stream_1062 User 178 joined the session 
+[2023-10-27 15:48:55] USER_LEAVE 120 stream_1071 User 120 left the session 
+[2023-10-27 15:49:11] INFO 177 stream_1070 Packet loss detected. [Loss:10%] 
+[2023-10-27 15:49:53] STREAM_RESTART 182 stream_1099 Stream restarted. 
+[2023-10-27 15:49:58] STREAM_RECONNECT 156 stream_1066 Stream reconnected. 
+[2023-10-27 15:50:46] INFO 160 stream_1084 Audio device fixed. 
+[2023-10-27 15:51:07] USER_JOIN 162 stream_1050 User 162 joined the session 
+[2023-10-27 15:51:50] CRITICAL 188 stream_1080 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 15:52:13] INFO 100 stream_1044 Packet loss detected. [Loss:10%] 
+[2023-10-27 15:52:55] STREAM_STOP 144 stream_1073 User 144 stopped stream stream_1073 
+[2023-10-27 15:52:58] USER_LEAVE 175 stream_1073 User 175 left the session 
+[2023-10-27 15:53:40] STREAM_START 100 stream_1025 User 100 started stream stream_1025 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 15:54:36] STREAM_RECONNECT 148 stream_1054 Stream reconnected. 
+[2023-10-27 15:55:24] STREAM_START 186 stream_1036 User 186 started stream stream_1036 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 15:55:39] ERROR 195 stream_1075 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 15:56:32] STREAM_RECONNECT 117 stream_1078 Stream reconnected. 
+[2023-10-27 15:57:28] CRITICAL 193 stream_1015 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 15:58:14] INFO 152 stream_1040 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 15:59:06] CRITICAL 195 stream_1068 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 15:59:39] STREAM_STOP 142 stream_1068 User 142 stopped stream stream_1068 
+[2023-10-27 16:00:36] CRITICAL 122 stream_1049 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 16:01:25] USER_JOIN 191 stream_1039 User 191 joined the session 
+[2023-10-27 16:01:39] USER_JOIN 156 stream_1045 User 156 joined the session 
+[2023-10-27 16:02:17] DEBUG 124 stream_1089 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 16:02:26] WARNING 106 stream_1029 Variable x set to 10 
+[2023-10-27 16:02:29] STREAM_RESTART 107 stream_1067 Stream restarted. 
+[2023-10-27 16:02:45] STREAM_RESTART 156 stream_1001 Stream restarted. 
+[2023-10-27 16:03:32] STREAM_STOP 177 stream_1010 User 177 stopped stream stream_1010 
+[2023-10-27 16:03:57] STREAM_RECONNECT 151 stream_1042 Stream reconnected. 
+[2023-10-27 16:04:43] STREAM_START 100 stream_1035 User 100 started stream stream_1035 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 16:04:58] USER_JOIN 158 stream_1067 User 158 joined the session 
+[2023-10-27 16:05:01] STREAM_RECONNECT 112 stream_1084 Stream reconnected. 
+[2023-10-27 16:05:35] INFO 145 stream_1089 Audio device fixed. 
+[2023-10-27 16:06:26] USER_JOIN 129 stream_1089 User 129 joined the session 
+[2023-10-27 16:07:09] WARNING 108 stream_1047 High CPU usage detected [CPU:90%] 
+[2023-10-27 16:07:26] STREAM_RECONNECT 181 stream_1080 Stream reconnected. 
+[2023-10-27 16:07:41] DEBUG 161 stream_1016 High CPU usage detected [CPU:90%] 
+[2023-10-27 16:07:44] ERROR 115 stream_1095 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 16:08:40] CRITICAL 184 stream_1045 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 16:09:01] INFO 127 stream_1080 Reconnected stream stable. 
+[2023-10-27 16:09:31] STREAM_START 184 stream_1094 User 184 started stream stream_1094 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 16:10:16] USER_JOIN 199 stream_1085 User 199 joined the session 
+[2023-10-27 16:10:49] DEBUG 101 stream_1079 Stream bitrate stable. 
+[2023-10-27 16:11:15] WARNING 196 stream_1077 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 16:11:58] INFO 145 stream_1090 User audio connected. 
+[2023-10-27 16:12:37] STREAM_START 107 stream_1076 User 107 started stream stream_1076 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 16:12:58] STREAM_STOP 191 stream_1009 User 191 stopped stream stream_1009 
+[2023-10-27 16:13:38] USER_LEAVE 146 stream_1026 User 146 left the session 
+[2023-10-27 16:14:27] STREAM_START 139 stream_1086 User 139 started stream stream_1086 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 16:15:22] INFO 102 stream_1073 Stream latency normal. [Latency:50ms] 
+[2023-10-27 16:15:26] INFO 154 stream_1067 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 16:16:14] USER_LEAVE 100 stream_1020 User 100 left the session 
+[2023-10-27 16:16:39] CRITICAL 167 stream_1009 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 16:17:11] CRITICAL 188 stream_1041 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 16:17:16] INFO 146 stream_1078 attempting to fix audio device. 
+[2023-10-27 16:18:03] STREAM_RESTART 156 stream_1069 Stream restarted. 
+[2023-10-27 16:18:04] ERROR 178 stream_1005 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 16:18:46] CRITICAL 145 stream_1065 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 16:19:25] WARNING 113 stream_1032 Stream bitrate stable. 
+[2023-10-27 16:20:22] WARNING 147 stream_1060 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 16:20:36] WARNING 116 stream_1074 User audio connected. 
+[2023-10-27 16:21:22] STREAM_STOP 117 stream_1085 User 117 stopped stream stream_1085 
+[2023-10-27 16:21:38] STREAM_STOP 172 stream_1097 User 172 stopped stream stream_1097 
+[2023-10-27 16:22:23] STREAM_START 144 stream_1092 User 144 started stream stream_1092 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 16:22:57] DEBUG 189 stream_1043 Stream bitrate stable. 
+[2023-10-27 16:23:34] STREAM_STOP 154 stream_1026 User 154 stopped stream stream_1026 
+[2023-10-27 16:24:12] USER_LEAVE 183 stream_1010 User 183 left the session 
+[2023-10-27 16:24:43] USER_JOIN 132 stream_1054 User 132 joined the session 
+[2023-10-27 16:24:47] STREAM_RESTART 165 stream_1042 Stream restarted. 
+[2023-10-27 16:25:33] STREAM_STOP 181 stream_1077 User 181 stopped stream stream_1077 
+[2023-10-27 16:26:03] STREAM_START 181 stream_1011 User 181 started stream stream_1011 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 16:26:11] USER_JOIN 148 stream_1010 User 148 joined the session 
+[2023-10-27 16:26:33] ERROR 153 stream_1059 Stream error [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 16:27:16] STREAM_START 125 stream_1020 User 125 started stream stream_1020 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 16:28:06] STREAM_RECONNECT 135 stream_1069 Stream reconnected. 
+[2023-10-27 16:28:43] DEBUG 112 stream_1069 Stream latency normal. [Latency:50ms] 
+[2023-10-27 16:29:40] STREAM_RESTART 132 stream_1078 Stream restarted. 
+[2023-10-27 16:29:46] USER_JOIN 147 stream_1032 User 147 joined the session 
+[2023-10-27 16:29:56] CRITICAL 124 stream_1045 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 16:30:16] STREAM_RECONNECT 147 stream_1013 Stream reconnected. 
+[2023-10-27 16:30:56] STREAM_STOP 182 stream_1037 User 182 stopped stream stream_1037 
+[2023-10-27 16:31:28] ERROR 110 stream_1015 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 16:31:47] STREAM_START 104 stream_1051 User 104 started stream stream_1051 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 16:32:07] USER_JOIN 169 stream_1019 User 169 joined the session 
+[2023-10-27 16:32:33] USER_JOIN 101 stream_1029 User 101 joined the session 
+[2023-10-27 16:33:05] CRITICAL 139 stream_1020 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 16:33:32] INFO 160 stream_1008 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 16:34:17] CRITICAL 162 stream_1074 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 16:34:31] USER_LEAVE 164 stream_1003 User 164 left the session 
+[2023-10-27 16:35:09] STREAM_START 105 stream_1013 User 105 started stream stream_1013 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 16:35:18] DEBUG 170 stream_1080 High CPU usage detected [CPU:90%] 
+[2023-10-27 16:36:00] CRITICAL 106 stream_1038 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 16:36:03] INFO 186 stream_1064 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 16:36:54] STREAM_START 167 stream_1014 User 167 started stream stream_1014 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 16:37:17] ERROR 133 stream_1003 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 16:38:15] USER_LEAVE 151 stream_1061 User 151 left the session 
+[2023-10-27 16:39:00] DEBUG 124 stream_1025 Audio device fixed. 
+[2023-10-27 16:39:46] STREAM_RESTART 103 stream_1064 Stream restarted. 
+[2023-10-27 16:40:05] USER_JOIN 107 stream_1025 User 107 joined the session 
+[2023-10-27 16:40:16] USER_LEAVE 168 stream_1071 User 168 left the session 
+[2023-10-27 16:41:04] STREAM_STOP 133 stream_1028 User 133 stopped stream stream_1028 
+[2023-10-27 16:41:25] STREAM_RESTART 137 stream_1051 Stream restarted. 
+[2023-10-27 16:41:37] USER_JOIN 129 stream_1016 User 129 joined the session 
+[2023-10-27 16:41:49] STREAM_START 164 stream_1099 User 164 started stream stream_1099 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 16:42:07] ERROR 102 stream_1035 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 16:42:22] WARNING 190 stream_1057 High CPU usage detected [CPU:90%] 
+[2023-10-27 16:42:59] DEBUG 154 stream_1022 attempting to fix audio device. 
+[2023-10-27 16:43:43] STREAM_RESTART 138 stream_1053 Stream restarted. 
+[2023-10-27 16:43:55] CRITICAL 194 stream_1017 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 16:44:51] USER_LEAVE 167 stream_1027 User 167 left the session 
+[2023-10-27 16:44:53] INFO 113 stream_1021 Variable x set to 10 
+[2023-10-27 16:45:36] CRITICAL 148 stream_1090 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 16:46:07] DEBUG 123 stream_1070 Stream bitrate stable. 
+[2023-10-27 16:46:40] USER_JOIN 183 stream_1096 User 183 joined the session 
+[2023-10-27 16:47:09] DEBUG 136 stream_1010 Reconnected stream stable. 
+[2023-10-27 16:47:24] DEBUG 136 stream_1093 Packet loss detected. [Loss:10%] 
+[2023-10-27 16:47:31] STREAM_RESTART 120 stream_1034 Stream restarted. 
+[2023-10-27 16:47:33] WARNING 184 stream_1061 attempting to fix audio device. 
+[2023-10-27 16:47:35] CRITICAL 124 stream_1055 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 16:47:45] STREAM_START 190 stream_1056 User 190 started stream stream_1056 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 16:48:28] STREAM_RECONNECT 169 stream_1088 Stream reconnected. 
+[2023-10-27 16:48:29] ERROR 187 stream_1065 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 16:48:49] ERROR 183 stream_1016 Stream error [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 16:49:08] ERROR 179 stream_1011 Stream error [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 16:49:42] CRITICAL 182 stream_1033 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 16:49:55] STREAM_RESTART 140 stream_1052 Stream restarted. 
+[2023-10-27 16:50:09] CRITICAL 179 stream_1043 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 16:51:01] INFO 196 stream_1045 High CPU usage detected [CPU:90%] 
+[2023-10-27 16:51:17] STREAM_START 172 stream_1062 User 172 started stream stream_1062 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 16:51:56] USER_JOIN 116 stream_1077 User 116 joined the session 
+[2023-10-27 16:52:14] DEBUG 185 stream_1076 Reconnected stream stable. 
+[2023-10-27 16:52:27] USER_JOIN 153 stream_1034 User 153 joined the session 
+[2023-10-27 16:52:38] DEBUG 104 stream_1042 Packet loss detected. [Loss:10%] 
+[2023-10-27 16:52:56] STREAM_START 137 stream_1028 User 137 started stream stream_1028 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 16:53:27] INFO 166 stream_1030 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 16:53:44] WARNING 145 stream_1027 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 16:53:48] USER_LEAVE 111 stream_1034 User 111 left the session 
+[2023-10-27 16:54:09] WARNING 130 stream_1009 Packet loss detected. [Loss:10%] 
+[2023-10-27 16:54:56] ERROR 189 stream_1076 Stream error [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 16:55:04] WARNING 175 stream_1028 Audio device fixed. 
+[2023-10-27 16:55:55] STREAM_RECONNECT 145 stream_1017 Stream reconnected. 
+[2023-10-27 16:56:04] INFO 172 stream_1097 User audio connected. 
+[2023-10-27 16:56:59] INFO 133 stream_1094 Reconnected stream stable. 
+[2023-10-27 16:57:42] STREAM_RECONNECT 175 stream_1006 Stream reconnected. 
+[2023-10-27 16:58:21] INFO 108 stream_1064 Variable x set to 10 
+[2023-10-27 16:59:00] STREAM_STOP 100 stream_1020 User 100 stopped stream stream_1020 
+[2023-10-27 16:59:55] CRITICAL 104 stream_1093 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 17:00:33] STREAM_START 105 stream_1028 User 105 started stream stream_1028 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 17:01:14] STREAM_START 126 stream_1059 User 126 started stream stream_1059 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 17:01:18] USER_LEAVE 185 stream_1084 User 185 left the session 
+[2023-10-27 17:01:45] ERROR 180 stream_1068 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 17:02:42] STREAM_START 173 stream_1008 User 173 started stream stream_1008 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 17:02:47] STREAM_START 104 stream_1053 User 104 started stream stream_1053 [Codec:VP9, Bitrate:2048kbps] 
+[2023-10-27 17:03:26] DEBUG 160 stream_1098 Stream bitrate stable. 
+[2023-10-27 17:03:57] INFO 170 stream_1056 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 17:04:07] STREAM_START 108 stream_1091 User 108 started stream stream_1091 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 17:04:12] CRITICAL 135 stream_1085 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 17:05:07] STREAM_RECONNECT 131 stream_1005 Stream reconnected. 
+[2023-10-27 17:05:55] ERROR 144 stream_1045 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 17:06:31] CRITICAL 144 stream_1068 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 17:07:29] USER_LEAVE 159 stream_1057 User 159 left the session 
+[2023-10-27 17:08:20] STREAM_RECONNECT 171 stream_1079 Stream reconnected. 
+[2023-10-27 17:08:25] USER_JOIN 182 stream_1061 User 182 joined the session 
+[2023-10-27 17:09:08] STREAM_RESTART 180 stream_1007 Stream restarted. 
+[2023-10-27 17:09:58] ERROR 182 stream_1045 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 17:10:11] WARNING 111 stream_1078 Stream latency normal. [Latency:50ms] 
+[2023-10-27 17:10:41] WARNING 152 stream_1090 attempting to fix audio device. 
+[2023-10-27 17:11:16] STREAM_START 140 stream_1072 User 140 started stream stream_1072 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 17:11:42] DEBUG 165 stream_1006 High CPU usage detected [CPU:90%] 
+[2023-10-27 17:12:27] DEBUG 156 stream_1091 High CPU usage detected [CPU:90%] 
+[2023-10-27 17:12:33] STREAM_STOP 152 stream_1090 User 152 stopped stream stream_1090 
+[2023-10-27 17:13:05] STREAM_RESTART 171 stream_1090 Stream restarted. 
+[2023-10-27 17:13:15] WARNING 143 stream_1034 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 17:14:15] STREAM_RESTART 169 stream_1061 Stream restarted. 
+[2023-10-27 17:14:50] CRITICAL 130 stream_1006 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 17:14:57] STREAM_RECONNECT 142 stream_1026 Stream reconnected. 
+[2023-10-27 17:15:32] INFO 151 stream_1034 Stream latency normal. [Latency:50ms] 
+[2023-10-27 17:16:18] USER_JOIN 183 stream_1072 User 183 joined the session 
+[2023-10-27 17:16:56] STREAM_STOP 169 stream_1033 User 169 stopped stream stream_1033 
+[2023-10-27 17:17:48] USER_LEAVE 108 stream_1000 User 108 left the session 
+[2023-10-27 17:18:36] STREAM_RECONNECT 185 stream_1092 Stream reconnected. 
+[2023-10-27 17:18:54] CRITICAL 149 stream_1031 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 17:19:26] DEBUG 120 stream_1055 attempting to fix audio device. 
+[2023-10-27 17:20:17] CRITICAL 197 stream_1006 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 17:20:36] STREAM_RECONNECT 156 stream_1027 Stream reconnected. 
+[2023-10-27 17:21:16] STREAM_START 183 stream_1089 User 183 started stream stream_1089 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 17:21:41] CRITICAL 104 stream_1026 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 17:21:55] ERROR 150 stream_1099 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 17:22:05] ERROR 108 stream_1021 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 17:22:06] CRITICAL 163 stream_1057 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 17:22:19] WARNING 148 stream_1035 Stream bitrate stable. 
+[2023-10-27 17:23:12] USER_JOIN 126 stream_1087 User 126 joined the session 
+[2023-10-27 17:23:32] WARNING 101 stream_1071 Packet loss detected. [Loss:10%] 
+[2023-10-27 17:23:54] STREAM_RECONNECT 138 stream_1023 Stream reconnected. 
+[2023-10-27 17:23:58] USER_JOIN 117 stream_1020 User 117 joined the session 
+[2023-10-27 17:24:29] USER_LEAVE 198 stream_1031 User 198 left the session 
+[2023-10-27 17:24:53] WARNING 163 stream_1013 Stream latency normal. [Latency:50ms] 
+[2023-10-27 17:25:29] USER_JOIN 137 stream_1090 User 137 joined the session 
+[2023-10-27 17:26:24] USER_LEAVE 173 stream_1071 User 173 left the session 
+[2023-10-27 17:26:43] STREAM_RESTART 149 stream_1098 Stream restarted. 
+[2023-10-27 17:27:25] DEBUG 150 stream_1060 Stream latency normal. [Latency:50ms] 
+[2023-10-27 17:27:48] CRITICAL 149 stream_1003 Stream failure, attempting restart [Error Code:500, Reason:Media Server Crash] 
+[2023-10-27 17:28:38] DEBUG 121 stream_1015 Stream latency normal. [Latency:50ms] 
+[2023-10-27 17:29:20] WARNING 188 stream_1094 Variable x set to 10 
+[2023-10-27 17:29:24] WARNING 138 stream_1057 Stream bitrate stable. 
+[2023-10-27 17:29:26] USER_JOIN 173 stream_1086 User 173 joined the session 
+[2023-10-27 17:30:04] USER_LEAVE 108 stream_1074 User 108 left the session 
+[2023-10-27 17:30:53] CRITICAL 111 stream_1033 Stream failure, attempting restart [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 17:31:30] USER_LEAVE 153 stream_1072 User 153 left the session 
+[2023-10-27 17:32:09] WARNING 160 stream_1066 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 17:32:29] CRITICAL 164 stream_1086 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 17:32:50] USER_LEAVE 130 stream_1059 User 130 left the session 
+[2023-10-27 17:33:23] STREAM_START 154 stream_1026 User 154 started stream stream_1026 [Codec:VP8, Bitrate:1500kbps] 
+[2023-10-27 17:33:43] STREAM_RESTART 116 stream_1096 Stream restarted. 
+[2023-10-27 17:34:17] USER_LEAVE 157 stream_1014 User 157 left the session 
+[2023-10-27 17:35:13] WARNING 127 stream_1032 Packet loss detected. [Loss:10%] 
+[2023-10-27 17:36:07] STREAM_RESTART 139 stream_1099 Stream restarted. 
+[2023-10-27 17:36:36] STREAM_STOP 189 stream_1041 User 189 stopped stream stream_1041 
+[2023-10-27 17:36:58] INFO 198 stream_1078 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 17:37:50] STREAM_START 168 stream_1062 User 168 started stream stream_1062 [Codec:H264, Bitrate:1024kbps] 
+[2023-10-27 17:38:49] ERROR 149 stream_1006 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 17:39:01] USER_LEAVE 181 stream_1017 User 181 left the session 
+[2023-10-27 17:39:41] USER_JOIN 195 stream_1040 User 195 joined the session 
+[2023-10-27 17:40:11] USER_LEAVE 106 stream_1078 User 106 left the session 
+[2023-10-27 17:40:37] INFO 199 stream_1011 User audio connected. 
+[2023-10-27 17:40:49] USER_LEAVE 190 stream_1048 User 190 left the session 
+[2023-10-27 17:41:00] CRITICAL 193 stream_1037 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 17:41:37] DEBUG 192 stream_1000 Variable x set to 10 
+[2023-10-27 17:42:11] STREAM_STOP 114 stream_1056 User 114 stopped stream stream_1056 
+[2023-10-27 17:42:41] CRITICAL 149 stream_1042 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 17:42:49] STREAM_STOP 169 stream_1069 User 169 stopped stream stream_1069 
+[2023-10-27 17:43:22] ERROR 125 stream_1081 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 17:43:59] CRITICAL 101 stream_1077 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 17:44:16] STREAM_RECONNECT 138 stream_1011 Stream reconnected. 
+[2023-10-27 17:44:50] DEBUG 139 stream_1091 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 17:45:07] STREAM_START 101 stream_1019 User 101 started stream stream_1019 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 17:45:58] STREAM_RESTART 111 stream_1010 Stream restarted. 
+[2023-10-27 17:46:34] USER_LEAVE 139 stream_1091 User 139 left the session 
+[2023-10-27 17:47:29] ERROR 185 stream_1077 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 17:47:36] ERROR 168 stream_1076 Stream error [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 17:47:54] WARNING 151 stream_1062 Reconnected stream stable. 
+[2023-10-27 17:48:51] ERROR 191 stream_1035 Stream error [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 17:49:14] STREAM_RECONNECT 179 stream_1073 Stream reconnected. 
+[2023-10-27 17:49:27] USER_LEAVE 113 stream_1086 User 113 left the session 
+[2023-10-27 17:49:57] STREAM_STOP 181 stream_1091 User 181 stopped stream stream_1091 
+[2023-10-27 17:50:46] CRITICAL 105 stream_1085 Stream failure, attempting restart [Error Code:501, Reason:Media Server Crash] 
+[2023-10-27 17:51:42] USER_JOIN 177 stream_1035 User 177 joined the session 
+[2023-10-27 17:52:14] STREAM_STOP 170 stream_1099 User 170 stopped stream stream_1099 
+[2023-10-27 17:52:43] STREAM_RESTART 143 stream_1017 Stream restarted. 
+[2023-10-27 17:52:54] ERROR 172 stream_1038 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 17:53:11] INFO 190 stream_1014 High CPU usage detected [CPU:90%] 
+[2023-10-27 17:54:07] ERROR 147 stream_1040 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 17:54:35] DEBUG 143 stream_1050 Stream latency normal. [Latency:50ms] 
+[2023-10-27 17:54:52] STREAM_RECONNECT 183 stream_1017 Stream reconnected. 
+[2023-10-27 17:55:52] INFO 171 stream_1029 Audio device fixed. 
+[2023-10-27 17:56:21] USER_LEAVE 194 stream_1091 User 194 left the session 
+[2023-10-27 17:57:19] STREAM_RESTART 171 stream_1097 Stream restarted. 
+[2023-10-27 17:58:07] CRITICAL 154 stream_1075 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 17:58:27] STREAM_START 118 stream_1072 User 118 started stream stream_1072 [Codec:H264, Bitrate:1500kbps] 
+[2023-10-27 17:58:52] USER_JOIN 166 stream_1079 User 166 joined the session 
+[2023-10-27 17:59:04] USER_JOIN 113 stream_1020 User 113 joined the session 
+[2023-10-27 17:59:47] USER_LEAVE 124 stream_1072 User 124 left the session 
+[2023-10-27 18:00:30] DEBUG 173 stream_1019 Audio device fixed. 
+[2023-10-27 18:01:11] WARNING 147 stream_1054 High CPU usage detected [CPU:90%] 
+[2023-10-27 18:01:29] STREAM_START 100 stream_1082 User 100 started stream stream_1082 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 18:01:50] DEBUG 125 stream_1008 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 18:02:31] USER_LEAVE 139 stream_1096 User 139 left the session 
+[2023-10-27 18:03:20] STREAM_RESTART 183 stream_1046 Stream restarted. 
+[2023-10-27 18:03:59] WARNING 134 stream_1091 Stream interrupted. [Reason:Internal Server Error] 
+[2023-10-27 18:04:25] STREAM_RECONNECT 175 stream_1048 Stream reconnected. 
+[2023-10-27 18:05:20] STREAM_START 112 stream_1016 User 112 started stream stream_1016 [Codec:VP8, Bitrate:2048kbps] 
+[2023-10-27 18:06:01] STREAM_RECONNECT 184 stream_1070 Stream reconnected. 
+[2023-10-27 18:06:09] STREAM_START 172 stream_1058 User 172 started stream stream_1058 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 18:06:54] STREAM_START 146 stream_1051 User 146 started stream stream_1051 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 18:07:37] INFO 172 stream_1093 Stream bitrate stable. 
+[2023-10-27 18:07:59] USER_JOIN 140 stream_1075 User 140 joined the session 
+[2023-10-27 18:08:40] ERROR 140 stream_1059 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 18:09:09] DEBUG 150 stream_1039 Variable x set to 10 
+[2023-10-27 18:09:22] CRITICAL 165 stream_1039 Stream failure, attempting restart [Error Code:500, Reason:Network Timeout] 
+[2023-10-27 18:10:01] WARNING 157 stream_1061 Reconnected stream stable. 
+[2023-10-27 18:10:55] STREAM_START 140 stream_1032 User 140 started stream stream_1032 [Codec:VP9, Bitrate:1500kbps] 
+[2023-10-27 18:11:36] ERROR 128 stream_1084 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 18:12:15] STREAM_RECONNECT 195 stream_1026 Stream reconnected. 
+[2023-10-27 18:12:57] USER_JOIN 186 stream_1019 User 186 joined the session 
+[2023-10-27 18:13:46] CRITICAL 187 stream_1069 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 18:14:14] CRITICAL 144 stream_1080 Stream failure, attempting restart [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 18:14:41] CRITICAL 102 stream_1055 Stream failure, attempting restart [Error Code:501, Reason:Internal Server Error] 
+[2023-10-27 18:14:49] CRITICAL 151 stream_1096 Stream failure, attempting restart [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 18:15:00] USER_LEAVE 161 stream_1007 User 161 left the session 
+[2023-10-27 18:15:53] INFO 112 stream_1080 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 18:16:31] DEBUG 118 stream_1045 Stream latency normal. [Latency:50ms] 
+[2023-10-27 18:17:02] STREAM_STOP 127 stream_1035 User 127 stopped stream stream_1035 
+[2023-10-27 18:17:44] CRITICAL 195 stream_1098 Stream failure, attempting restart [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 18:18:32] USER_LEAVE 112 stream_1017 User 112 left the session 
+[2023-10-27 18:18:41] STREAM_RESTART 187 stream_1022 Stream restarted. 
+[2023-10-27 18:19:35] WARNING 141 stream_1033 Reconnected stream stable. 
+[2023-10-27 18:20:12] STREAM_START 147 stream_1009 User 147 started stream stream_1009 [Codec:VP9, Bitrate:1024kbps] 
+[2023-10-27 18:20:14] STREAM_RESTART 110 stream_1083 Stream restarted. 
+[2023-10-27 18:20:41] ERROR 112 stream_1074 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 18:21:11] ERROR 144 stream_1055 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 18:22:09] DEBUG 171 stream_1012 Stream bitrate stable. 
+[2023-10-27 18:22:43] USER_JOIN 113 stream_1055 User 113 joined the session 
+[2023-10-27 18:23:04] DEBUG 134 stream_1026 User audio connected. 
+[2023-10-27 18:23:37] USER_JOIN 183 stream_1003 User 183 joined the session 
+[2023-10-27 18:24:22] ERROR 122 stream_1029 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 18:24:57] ERROR 129 stream_1057 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 18:25:05] USER_JOIN 140 stream_1094 User 140 joined the session 
+[2023-10-27 18:25:08] STREAM_RESTART 128 stream_1064 Stream restarted. 
+[2023-10-27 18:25:36] USER_JOIN 116 stream_1052 User 116 joined the session 
+[2023-10-27 18:26:28] STREAM_STOP 140 stream_1015 User 140 stopped stream stream_1015 
+[2023-10-27 18:27:16] ERROR 139 stream_1085 Stream error [Error Code:502, Reason:Media Server Crash] 
+[2023-10-27 18:27:42] INFO 133 stream_1027 Stream latency normal. [Latency:50ms] 
+[2023-10-27 18:28:10] ERROR 156 stream_1009 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 18:28:15] STREAM_START 165 stream_1070 User 165 started stream stream_1070 [Codec:VP8, Bitrate:1024kbps] 
+[2023-10-27 18:29:04] ERROR 119 stream_1011 Stream error [Error Code:502, Reason:Network Timeout] 
+[2023-10-27 18:29:26] ERROR 165 stream_1021 Stream error [Error Code:500, Reason:Internal Server Error] 
+[2023-10-27 18:30:22] WARNING 195 stream_1099 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 18:30:42] DEBUG 128 stream_1000 High CPU usage detected [CPU:90%] 
+[2023-10-27 18:31:12] ERROR 174 stream_1088 Stream error [Error Code:502, Reason:Internal Server Error] 
+[2023-10-27 18:32:08] WARNING 152 stream_1055 High CPU usage detected [CPU:90%] 
+[2023-10-27 18:33:05] STREAM_RECONNECT 179 stream_1076 Stream reconnected. 
+[2023-10-27 18:34:04] STREAM_STOP 194 stream_1008 User 194 stopped stream stream_1008 
+[2023-10-27 18:34:55] ERROR 169 stream_1042 Stream error [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 18:35:19] CRITICAL 111 stream_1038 Stream failure, attempting restart [Error Code:501, Reason:Network Timeout] 
+[2023-10-27 18:35:57] WARNING 196 stream_1032 Audio input device not detected. [Device:Microphone] 
+[2023-10-27 18:36:26] INFO 192 stream_1028 User audio connected. 
+[2023-10-27 18:36:46] USER_LEAVE 144 stream_1054 User 144 left the session 
+[2023-10-27 18:37:06] DEBUG 168 stream_1006 Video quality degraded. [Reason:Bandwidth limitation] 
+[2023-10-27 18:37:27] STREAM_RECONNECT 158 stream_1003 Stream reconnected. 
+[2023-10-27 18:37:43] STREAM_RECONNECT 187 stream_1079 Stream reconnected. 
